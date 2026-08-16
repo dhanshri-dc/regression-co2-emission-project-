@@ -1,4 +1,4 @@
-deployment link : "http://localhost:8501"
+
 
 🌍 CO2 Emission Prediction using Regression
 
